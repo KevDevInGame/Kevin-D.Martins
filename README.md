@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kevin-OenPhix.
+- 👋 Hi, I’m @Kevin.
 - 🇧🇷 I am from Brazil
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning Git.
